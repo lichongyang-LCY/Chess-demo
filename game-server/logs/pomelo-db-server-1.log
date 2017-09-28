@@ -1,0 +1,305 @@
+[2017-07-03 15:46:30.545] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 15:46:31.306] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 15:46:31.307] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 15:46:31.310] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 629 ms
+[2017-07-03 15:48:58.683] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 15:48:59.485] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 15:48:59.486] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 15:48:59.491] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 654 ms
+[2017-07-03 15:54:42.342] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 15:54:43.099] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 15:54:43.099] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 15:54:43.102] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 597 ms
+[2017-07-03 15:56:33.153] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 15:56:33.804] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 15:56:33.805] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 15:56:33.808] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 496 ms
+[2017-07-03 15:57:15.608] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 15:57:16.290] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 15:57:16.291] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 15:57:16.294] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 534 ms
+[2017-07-03 16:28:55.961] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:28:56.667] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:28:56.668] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:28:56.671] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 505 ms
+[2017-07-03 16:39:45.954] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:39:46.695] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:39:46.697] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:39:46.701] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 687 ms
+[2017-07-03 16:43:31.641] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:43:32.237] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:43:32.238] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:43:32.243] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 560 ms
+[2017-07-03 16:43:32.314] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":11396}}
+[2017-07-03 16:43:59.676] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:44:00.393] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:44:00.394] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:44:00.400] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 687 ms
+[2017-07-03 16:46:47.081] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:46:47.611] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:46:47.622] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:46:47.626] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 493 ms
+[2017-07-03 16:46:47.634] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":8976}}
+[2017-07-03 16:46:47.692] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":2612}}
+[2017-07-03 16:46:47.795] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":4132}}
+[2017-07-03 16:48:03.163] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:48:03.796] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:48:03.797] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:48:03.801] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 596 ms
+[2017-07-03 16:50:52.795] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39mdb-server-1 receive removeServer signal: {"action":"removeServer","id":"manager-server-1"}
+[2017-07-03 16:59:38.532] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 16:59:39.144] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 16:59:39.145] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 16:59:39.150] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 590 ms
+[2017-07-03 16:59:39.154] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":8352}}
+[2017-07-03 16:59:39.175] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":5900}}
+[2017-07-03 18:08:15.016] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-03 18:08:15.592] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-03 18:08:15.594] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-03 18:08:15.596] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 514 ms
+[2017-07-04 08:49:22.775] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-04 08:49:23.622] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-04 08:49:23.623] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-04 08:49:23.626] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 570 ms
+[2017-07-04 08:50:39.417] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-04 08:50:40.047] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-04 08:50:40.048] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-04 08:50:40.052] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 547 ms
+[2017-07-04 08:56:56.509] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-04 08:56:57.048] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-04 08:56:57.049] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-04 08:56:57.052] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 453 ms
+[2017-07-04 08:58:03.725] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-04 08:58:04.243] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-04 08:58:04.244] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-04 08:58:04.247] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 457 ms
+[2017-07-04 09:02:45.315] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-04 09:02:45.885] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-04 09:02:45.886] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-04 09:02:45.889] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 515 ms
+[2017-07-04 09:02:45.933] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":6964}}
+[2017-07-05 10:16:39.454] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 10:16:40.082] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 10:16:40.083] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 10:16:40.091] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 616 ms
+[2017-07-05 10:16:40.102] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"business-server-1","host":"127.0.0.1","port":3350,"serverType":"business","pid":10540}}
+[2017-07-05 10:16:40.145] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":7060}}
+[2017-07-05 10:16:40.209] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":2980}}
+[2017-07-05 10:16:40.223] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":4904}}
+[2017-07-05 10:16:40.242] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"manager-server-1","host":"127.0.0.1","port":3250,"serverType":"manager","pid":9804}}
+[2017-07-05 10:24:46.371] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 10:24:46.949] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 10:24:46.950] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 10:24:46.953] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 538 ms
+[2017-07-05 10:24:46.986] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":608}}
+[2017-07-05 10:24:47.068] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":9132}}
+[2017-07-05 10:32:16.180] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 10:32:16.741] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 10:32:16.742] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 10:32:16.745] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 509 ms
+[2017-07-05 11:39:41.896] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 11:39:42.464] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 11:39:42.465] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 11:39:42.469] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 544 ms
+[2017-07-05 11:39:42.521] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":11224}}
+[2017-07-05 11:46:32.122] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 11:46:32.749] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 11:46:33.127] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 11:46:33.130] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 954 ms
+[2017-07-05 11:49:46.941] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 11:49:47.553] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 11:49:47.747] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 11:49:47.750] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 771 ms
+[2017-07-05 11:51:45.206] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 11:51:45.746] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 11:51:45.747] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 11:51:45.752] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 511 ms
+[2017-07-05 11:51:45.755] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":9452}}
+[2017-07-05 11:51:45.820] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"business-server-1","host":"127.0.0.1","port":3350,"serverType":"business","pid":7648}}
+[2017-07-05 11:51:45.882] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":7928}}
+[2017-07-05 11:59:43.349] [WARN] pomelo - [33m[E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"db.CDBDataCenter.GetPerson","serverType":"db","handler":"CDBDataCenter","method":"GetPerson"}
+[2017-07-05 11:59:43.351] [ERROR] pomelo - [31m[E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "db.CDBDataCenter.GetPerson"
+[2017-07-05 11:59:43.353] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for db.CDBDataCenter.GetPerson
+    at Service.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at Server.pro.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:125:3)
+    at Component.pro.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\components\server.js:67:14)
+    at Remote.forwardMessage (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\remote\backend\msgRemote.js:45:10)
+    at Dispatcher.pro.route (E:\play_demo\game\game-server\node_modules\pomelo-rpc\lib\rpc-server\dispatcher.js:52:10)
+[2017-07-05 13:41:21.425] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 13:41:22.033] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 13:41:22.034] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 13:41:22.037] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 562 ms
+[2017-07-05 13:41:27.998] [WARN] pomelo - [33m[E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"db.CDBDataCenter.GetPerson","serverType":"db","handler":"CDBDataCenter","method":"GetPerson"}
+[2017-07-05 13:41:27.998] [ERROR] pomelo - [31m[E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "db.CDBDataCenter.GetPerson"
+[2017-07-05 13:41:27.999] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for db.CDBDataCenter.GetPerson
+    at Service.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at Server.pro.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:125:3)
+    at Component.pro.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\components\server.js:67:14)
+    at Remote.forwardMessage (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\remote\backend\msgRemote.js:45:10)
+    at Dispatcher.pro.route (E:\play_demo\game\game-server\node_modules\pomelo-rpc\lib\rpc-server\dispatcher.js:52:10)
+[2017-07-05 13:52:24.299] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 13:52:24.933] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 13:52:24.934] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 13:52:24.940] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 580 ms
+[2017-07-05 13:52:24.961] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":12224}}
+[2017-07-05 13:52:31.160] [WARN] pomelo - [33m[E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find the method getPersons in handler: dataHandler
+[2017-07-05 13:52:31.160] [ERROR] pomelo - [31m[E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "db.dataHandler.getPersons"
+[2017-07-05 13:52:31.161] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for db.dataHandler.getPersons
+    at Service.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at Server.pro.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\server\server.js:125:3)
+    at Component.pro.handle (E:\play_demo\game\game-server\node_modules\pomelo\lib\components\server.js:67:14)
+    at Remote.forwardMessage (E:\play_demo\game\game-server\node_modules\pomelo\lib\common\remote\backend\msgRemote.js:45:10)
+    at Dispatcher.pro.route (E:\play_demo\game\game-server\node_modules\pomelo-rpc\lib\rpc-server\dispatcher.js:52:10)
+[2017-07-05 13:53:38.385] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 13:53:39.030] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 13:53:39.032] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 13:53:39.036] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 599 ms
+[2017-07-05 13:54:56.891] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 13:54:57.505] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 13:54:57.507] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 13:54:57.517] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 592 ms
+[2017-07-05 14:10:54.199] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:10:54.848] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:10:54.849] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:10:54.855] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 609 ms
+[2017-07-05 14:10:54.861] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":11984}}
+[2017-07-05 14:14:11.226] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:14:11.884] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:14:11.885] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:14:11.888] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 603 ms
+[2017-07-05 14:17:24.126] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:17:24.772] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:17:24.774] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:17:24.784] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 601 ms
+[2017-07-05 14:35:26.455] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:35:26.976] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:35:26.978] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:35:26.981] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 476 ms
+[2017-07-05 14:37:11.798] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:37:12.381] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:37:12.382] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:37:12.387] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 565 ms
+[2017-07-05 14:40:50.062] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:40:50.626] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:40:50.628] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:40:50.639] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 540 ms
+[2017-07-05 14:40:50.643] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":9068}}
+[2017-07-05 14:42:27.841] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-05 14:42:28.425] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-05 14:42:28.426] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-05 14:42:28.430] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 563 ms
+[2017-07-06 08:53:21.966] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-06 08:53:22.491] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-06 08:53:22.497] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-06 08:53:22.501] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 499 ms
+[2017-07-06 08:53:22.539] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":13244}}
+[2017-07-06 08:53:22.573] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":10288}}
+[2017-07-06 08:53:22.638] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":9188}}
+[2017-07-06 08:55:30.569] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-06 08:55:31.158] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-06 08:55:31.160] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-06 08:55:31.165] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 538 ms
+[2017-07-06 08:55:31.223] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":8540}}
+[2017-07-06 09:00:39.059] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-06 09:00:39.665] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-06 09:00:39.666] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-06 09:00:39.671] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 550 ms
+[2017-07-06 09:00:39.760] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":9536}}
+[2017-07-06 09:01:43.654] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-06 09:01:44.317] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-06 09:01:44.319] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-06 09:01:44.326] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 625 ms
+[2017-07-06 09:27:52.630] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-06 09:27:53.282] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-06 09:27:53.284] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-06 09:27:53.288] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 598 ms
+[2017-07-06 09:29:42.429] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-06 09:29:43.014] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-06 09:29:43.015] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-06 09:29:43.020] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 540 ms
+[2017-07-11 13:49:26.995] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-11 13:49:27.637] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-11 13:49:27.639] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-11 13:49:27.642] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 608 ms
+[2017-07-11 13:55:15.780] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-11 13:55:16.410] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-11 13:55:16.413] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-11 13:55:16.417] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 583 ms
+[2017-07-11 13:55:16.489] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":1288}}
+[2017-07-24 09:08:33.665] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-07-24 09:08:34.226] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-07-24 09:08:34.233] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-07-24 09:08:34.237] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 546 ms
+[2017-07-24 09:08:34.252] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":10272}}
+[2017-07-24 09:08:34.257] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":12996}}
+[2017-07-24 09:08:34.311] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":11728}}
+[2017-08-11 14:12:00.687] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-11 14:12:01.469] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-11 14:12:01.471] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-11 14:12:01.475] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 777 ms
+[2017-08-11 16:18:43.316] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-11 16:18:43.929] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-11 16:18:43.931] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-11 16:18:43.934] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 602 ms
+[2017-08-11 16:46:01.218] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-11 16:46:01.807] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-11 16:46:01.808] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-11 16:46:01.811] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 583 ms
+[2017-08-11 16:46:01.815] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":13044}}
+[2017-08-11 16:52:39.365] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-11 16:52:39.823] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-11 16:52:39.824] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-11 16:52:39.827] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 452 ms
+[2017-08-15 09:03:15.236] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-15 09:03:16.241] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-15 09:03:16.242] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-15 09:03:16.246] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 1000 ms
+[2017-08-15 09:03:16.254] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":12644}}
+[2017-08-15 09:03:16.307] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":12668}}
+[2017-08-15 09:26:17.547] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-15 09:26:18.040] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-15 09:26:18.041] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-15 09:26:18.046] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 489 ms
+[2017-08-15 09:26:18.159] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":15076}}
+[2017-08-16 09:13:23.656] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-16 09:13:24.446] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-16 09:13:24.447] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-16 09:13:24.451] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 786 ms
+[2017-08-16 09:13:24.484] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":9228}}
+[2017-08-16 09:13:24.614] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":7372}}
+[2017-08-16 11:21:40.259] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-16 11:21:40.828] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-16 11:21:40.853] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-16 11:21:40.860] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 592 ms
+[2017-08-16 11:21:40.864] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":10100}}
+[2017-08-24 17:29:42.868] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-24 17:29:43.456] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-24 17:29:43.456] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-24 17:29:43.461] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 584 ms
+[2017-08-24 17:29:43.480] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":12404}}
+[2017-08-24 17:29:43.541] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":3150,"clientHost":"127.0.0.1","clientPort":3010,"frontend":"true","serverType":"connector","pid":14976}}
+[2017-08-24 17:36:13.681] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-08-24 17:36:14.220] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-08-24 17:36:14.228] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-08-24 17:36:14.240] [INFO] pomelo - [32m[E:\play_demo\game\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 531 ms
+[2017-08-24 17:36:14.250] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"zjh-server-1","host":"127.0.0.1","port":3450,"args":"--debug=6868","serverType":"zjh","pid":8208}}
+[2017-08-24 17:36:14.287] [DEBUG] pomelo - [36m[E:\play_demo\game\game-server\node_modules\pomelo\lib\modules\monitorwatcher.js] [39m[db-server-1] receive addServer signal: {"action":"addServer","server":{"main":"E:\\play_demo\\game\\game-server\\app.js","env":"development","id":"niuniu-server-1","host":"127.0.0.1","port":3550,"serverType":"niuniu","pid":724}}
+[2017-09-28 14:16:26.387] [INFO] pomelo - [32m[E:\webStormProject\demo\Chess-demo\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "db-server-1"
+[2017-09-28 14:16:26.763] [INFO] pomelo - [32m[E:\webStormProject\demo\Chess-demo\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" enter after start...
+[2017-09-28 14:16:26.764] [INFO] pomelo - [32m[E:\webStormProject\demo\Chess-demo\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" finish start
+[2017-09-28 14:16:26.766] [INFO] pomelo - [32m[E:\webStormProject\demo\Chess-demo\game-server\node_modules\pomelo\lib\application.js] [39m"db-server-1" startup in 362 ms

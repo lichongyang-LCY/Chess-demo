@@ -1,0 +1,5 @@
+{
+  "secret": "cccGame_secript_so",
+  "expire":  7200000,
+  "key":    "highpower"
+}
