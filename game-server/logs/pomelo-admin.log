@@ -1,0 +1,90 @@
+[2017-07-03 14:05:38.554] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-03 14:05:38.572] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-07-03 14:05:39.013] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-07-03 14:20:22.629] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-03 14:20:22.647] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-07-03 14:20:23.093] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-07-03 14:28:17.759] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-03 14:28:17.792] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-07-03 14:28:18.193] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "127.0.0.1", 3005
+[2017-07-03 14:28:18.273] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-07-03 14:34:51.618] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-07-03 14:34:51.650] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-07-03 14:34:52.042] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "127.0.0.1", 3005
+[2017-07-03 14:34:52.064] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-11 16:52:38.274] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-11 16:52:38.477] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-11 16:52:39.054] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-11 16:52:39.182] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-11 16:52:39.173] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-11 16:52:39.390] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-11 16:52:39.441] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-08-11 16:52:39.724] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-11 16:52:57.385] [INFO] pomelo-admin - [32m[MasterAgent] [39mclient user : monitor login to master
+[2017-08-11 16:53:00.744] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "nodeInfo".
+[2017-08-11 16:53:00.745] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "systemInfo".
+[2017-08-11 16:53:00.745] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "nodeInfo".
+[2017-08-11 16:53:00.746] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "systemInfo".
+[2017-08-11 16:53:00.748] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "nodeInfo".
+[2017-08-11 16:53:00.750] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "systemInfo".
+[2017-08-11 16:53:14.548] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "nodeInfo".
+[2017-08-11 16:53:55.210] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "systemInfo".
+[2017-08-11 16:54:19.025] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "sceneInfo".
+[2017-08-11 16:54:21.580] [ERROR] pomelo-admin - [31m[ConsoleService] [39munknown module: "systemInfo".
+[2017-08-11 16:55:19.111] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect pomelo-web-1 client "client"
+[2017-08-11 16:55:19.112] [INFO] pomelo-admin - [32m[MasterSocket] [39mclient user monitor exit
+[2017-08-15 09:03:14.706] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-15 09:03:14.829] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-15 09:03:16.043] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-08-15 09:03:16.038] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-15 09:03:16.049] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-15 09:03:16.102] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-15 09:03:16.122] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-15 09:03:16.109] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-15 09:26:16.896] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-15 09:26:17.011] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-15 09:26:17.676] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-15 09:26:17.786] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-15 09:26:17.811] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-15 09:26:17.940] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-08-15 09:26:17.936] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-15 09:26:18.086] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-16 09:13:23.150] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-16 09:13:23.241] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-16 09:13:24.251] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-08-16 09:13:24.256] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-16 09:13:24.280] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-16 09:13:24.300] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-16 09:13:24.350] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-16 09:13:24.552] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-16 11:21:39.689] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-16 11:21:39.795] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-16 11:21:40.475] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-16 11:21:40.551] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-16 11:21:40.583] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-16 11:21:40.639] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-08-16 11:21:40.669] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-16 11:21:40.706] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-24 17:29:42.254] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-24 17:29:42.417] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-24 17:29:43.228] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-24 17:29:43.232] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-08-24 17:29:43.270] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-24 17:29:43.311] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-24 17:29:43.311] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-24 17:29:43.411] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-24 17:36:12.971] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-08-24 17:36:13.130] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-08-24 17:36:13.791] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-08-24 17:36:13.794] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-08-24 17:36:14.036] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-08-24 17:36:14.088] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005
+[2017-08-24 17:36:14.093] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "zjh", "127.0.0.1", 3005
+[2017-08-24 17:36:14.131] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-09-28 14:16:25.028] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2017-09-28 14:16:25.308] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2017-09-28 14:16:26.231] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "business", "127.0.0.1", 3005
+[2017-09-28 14:16:26.264] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "manager", "127.0.0.1", 3005
+[2017-09-28 14:16:26.335] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2017-09-28 14:16:26.489] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "niuniu", "127.0.0.1", 3005
+[2017-09-28 14:16:26.665] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "db", "127.0.0.1", 3005

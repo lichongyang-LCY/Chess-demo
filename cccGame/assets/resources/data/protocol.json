@@ -1,0 +1,33 @@
+{
+  "Client":[
+    {"ID":"10001", "name":"getToken","route":"127.0.0.1:8001/token","parameters":"ses;type","CNotify":"0","http":1,"comment":"��ȡtoken"},
+    {"ID":"10002", "name":"newUser","route":"127.0.0.1:8001/nUser","parameters":"rtoken;name;sex","CNotify":"0","http":1,"comment":"�½��û�"},
+    {"ID":"10003", "name":"enterGame","route":"connector.entryHandler.entry","parameters":"token","CNotify":"0","http":0,"comment":"�û���¼"},
+
+
+    {"ID":"10004", "name":"game_join","route":"business.businessHandler.join","parameters":"rid;g","CNotify":"0","http":0,"comment":""},
+    {"ID":"10005", "name":"game_ready","route":"business.businessHandler.ready","parameters":"r;g","CNotify":"1","http":0,"comment":""},
+    {"ID":"10006", "name":"game_start","route":"business.businessHandler.start","parameters":"g","CNotify":"1","http":0,"comment":""},
+    {"ID":"10007", "name":"game_giveup","route":"business.businessHandler.giveup","parameters":"g","CNotify":"1","http":0,"comment":""},
+    {"ID":"10008", "name":"game_follow","route":"business.businessHandler.follow","parameters":"p;g","CNotify":"1","http":0,"comment":""},
+    {"ID":"10009", "name":"game_see","route":"business.businessHandler.see","parameters":"g","CNotify":"1","http":0,"comment":""},
+    {"ID":"10010", "name":"game_open","route":"business.businessHandler.open","parameters":"g","CNotify":"1","http":0,"comment":""}
+  ],
+  "Server":[
+
+    {"ID":"10001","onmessage":"getTokenRes","comment":"��ȡtoken����"},
+    {"ID":"10002","onmessage":"newUserRes","comment":"�½��û�����"},
+    {"ID":"10003","onmessage":"enterGameRes","comment":"�û���¼����"},
+
+    {"ID":"10004","onmessage":"zjhJoinRes","comment":"�û���¼����"},
+
+
+    {"ID":"rnp","onmessage":"onRoomNewPerson","comment":""},
+    {"ID":"rlp","onmessage":"onRoomLeavePerson","comment":""},
+    {"ID":"urdy","onmessage":"onUserReady","comment":""},
+    {"ID":"zjhnact","onmessage":"onZJHActivity","comment":""},
+    {"ID":"seecard","onmessage":"onZJHSeeCards","comment":""},
+    {"ID":"osee","onmessage":"onZJHOnePersonSeeCards","comment":""},
+    {"ID":"overonce","onmessage":"onZJHOneOver","comment":""}
+  ]
+}

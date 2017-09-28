@@ -1,0 +1,19 @@
+{
+  "excludeScenes": [
+    "ff731176-b0ed-4ff6-9d18-97194077ab0a"
+  ],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.cccGame",
+  "startScene": "1ee36c14-8294-4835-931a-3a311331a38d",
+  "title": "cccGame",
+  "webOrientation": "landscape"
+}
