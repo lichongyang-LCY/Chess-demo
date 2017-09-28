@@ -1,7 +1,7 @@
 # cccGame
 
 
-一款扎金花游戏  客户端是 cocos creator 1.3.3  服务器是pomelo
+一款扎金花游戏  客户端是 cocos creator 1.6.0以下  服务器是pomelo
 
 暂时 就细节没写完 基本功能都有了 已经可以玩
 
